@@ -18,6 +18,10 @@ Para subir un archivo
 Para bajar un archivo
 
 #python ftclient.py down <index-filename>
+  
+Para crear archivo de 1GB en linux:
+
+head -c 1G </dev/urandom >myfile
 
 
 
